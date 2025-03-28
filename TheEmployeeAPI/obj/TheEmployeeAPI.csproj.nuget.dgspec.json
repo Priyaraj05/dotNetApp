@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\priya_hari\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj": {}
+    "C:\\Priya\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj": {}
   },
   "projects": {
-    "C:\\priya_hari\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj": {
+    "C:\\Priya\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\priya_hari\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj",
+        "projectUniqueName": "C:\\Priya\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj",
         "projectName": "TheEmployeeAPI",
-        "projectPath": "C:\\priya_hari\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj",
+        "projectPath": "C:\\Priya\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj",
         "packagesPath": "C:\\Users\\priya\\.nuget\\packages\\",
-        "outputPath": "C:\\priya_hari\\dotNetApp\\TheEmployeeAPI\\obj\\",
+        "outputPath": "C:\\Priya\\dotNetApp\\TheEmployeeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\priya\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -29,7 +29,6 @@
           }
         },
         "warningProperties": {
-          "allWarningsAsErrors": true,
           "warnAsError": [
             "NU1605"
           ]
@@ -46,15 +45,27 @@
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Testing": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.14, )"
             },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
             }
           },
           "imports": [
