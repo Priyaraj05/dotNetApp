@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "P7ciTnhI16U=",
+  "dgSpecHash": "TeGDVGWYAUk=",
   "success": true,
   "projectFilePath": "C:\\Priya\\dotNetApp\\TheEmployeeAPI\\TheEmployeeAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\priya\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\priya\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
     "C:\\Users\\priya\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\8.0.10\\microsoft.aspnetcore.mvc.testing.8.0.10.nupkg.sha512",
     "C:\\Users\\priya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.14\\microsoft.aspnetcore.openapi.8.0.14.nupkg.sha512",
     "C:\\Users\\priya\\.nuget\\packages\\microsoft.aspnetcore.testhost\\8.0.10\\microsoft.aspnetcore.testhost.8.0.10.nupkg.sha512",
